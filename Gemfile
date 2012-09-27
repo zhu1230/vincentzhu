@@ -51,3 +51,4 @@ gem "therubyracer", ">= 0.10.2", :group => :assets, :platform => :ruby
 gem "sendgrid", ">= 1.0.1"
 gem "devise", ">= 2.1.2"
 gem "simple_form", ">= 2.0.2"
+gem "hub", ">= 1.10.2", :require => nil, :group => [:development]
